@@ -17,3 +17,6 @@ module MyFirstRailsApp
     # the framework and any gems in your application.
   end
 end
+# config/appication.rb
+config.assets.Initialize_on_precompile = false
+end
